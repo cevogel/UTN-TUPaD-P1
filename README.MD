@@ -3,11 +3,20 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Bruselario, Sebastián *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-7 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Vogel, Carlos Ervin
+- **Comisión:** M2025-9*  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+
+## 📦 Trabajo Práctico 2 - Git y GitHub
+
+Entrega correspondiente a la Unidad 2.
+
+**Contenido dentro de la carpeta `02 Trabajo Colaborativo`:**
+- `mi-archivo.txt`: archivo agregado y comiteado para práctica básica de Git.
+- `conflict-exercise/`: carpeta con el ejercicio de conflicto de ramas resuelto.
+- `Tp2-Git-GitHub.pdf`: entrega formal en PDF.
 
 📌 **Estructura del repositorio:**  
 - Cada trabajo está organizado en carpetas individuales.  
